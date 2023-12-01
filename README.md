@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesbah-tonmoy" alt="mesbah-tonmoy" /></a> </p>
 
-- 🔭 I’m currently working on **an e-commerce site**
+- 🔭 I’m currently working as **a Software Engineer**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Shopify App Development**
 
 - 📫 How to reach me **mesbahhossain@gmail.com**
 
